@@ -1,0 +1,17 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Socket.IO Chat</title>
+  </head>
+  <body>
+    <ul id="messages"></ul>
+    <input id="inputMessage" autocomplete="off" /><button
+      onclick="sendMessage()"
+    >
+      Send
+    </button>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="client.js"></script>
+  </body>
+</html>
