@@ -2,8 +2,8 @@ Here's a simple example demonstrating how Socket.IO can be used to create a basi
 
 ## Final Product
 
-!["Screenshot of chat"](https://github.com/EkaterinaEg/)
-!["Screenshot of files"](https://github.com/EkaterinaEg/)
+!["Screenshot of chat"](https://github.com/EkaterinaEg/socketio-chat/blob/master/docs/Screenshot.png)
+!["Screenshot of files"](https://github.com/EkaterinaEg/socketio-chat/blob/master/docs/Vscode.png)
 
 ### Setting Up the project:
 
